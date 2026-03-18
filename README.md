@@ -1,0 +1,1 @@
+Hemos creado un archivo gitigore en el que hacemos que ignore el archivo nombre.text
